@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Greeting Card"
+rootProject.name = "Happy Birthday"
 include(":app")
  
