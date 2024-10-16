@@ -1,4 +1,4 @@
-package com.example.helloworld
+package com.example.greetingcard
 
 import org.junit.Test
 

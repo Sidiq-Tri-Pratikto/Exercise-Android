@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.helloworld"
+    namespace = "com.example.greetingcard"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.helloworld"
-        minSdk = 21
+        applicationId = "com.example.greetingcard"
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
